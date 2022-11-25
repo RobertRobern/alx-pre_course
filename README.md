@@ -25,11 +25,12 @@ At the end of this project you should understand the following:
 Is the practice of tracking modifications to source code. 
 
 ### `Benefits of source code management`
-| ------------ | ------------ 
-| Complete version history | More effective collaboration |
-| Workflow automation | Better communication |
-| Graphic displays of code history | Generated release notes |
-| Code backup | Pipeline analytics |
+| Column 1 | Column 2
+| ------------ | ------------ |
+| Complete version history. | More effective collaboration. |
+| Workflow automation. | Better communication. |
+| Graphic displays of code history. | Generated release notes. |
+| Code backup. | Pipeline analytics. |
 
 ### **Difference between Git and GitHub**
 
