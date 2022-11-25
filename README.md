@@ -21,6 +21,16 @@ At the end of this project you should understand the following:
 13. How to work as collaborators on a project
 14. Which files should and which files should not appear in your repo
 
+### **Source code management**
+Is the practice of tracking modifications to source code. 
+
+### `Benefits of source code management`
+| ------------ | ------------ 
+| Complete version history | More effective collaboration |
+| Workflow automation | Better communication |
+| Graphic displays of code history | Generated release notes |
+| Code backup | Pipeline analytics |
+
 ### **Difference between Git and GitHub**
 
 | S.No.     | Git      | GitHub   
@@ -48,3 +58,4 @@ At the end of this project you should understand the following:
 - [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 - [Learning branching](https://learngitbranching.js.org/)
 - [Effective pull requests and other good practices for teams using GitHub](https://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
+- [Source code management](https://www.splunk.com/en_us/data-insider/what-is-source-code-management.html)
