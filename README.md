@@ -4,7 +4,7 @@ Git: is a free and open source didtributed version control system designed to ha
 
 Github: is a code hosting platform for version control and collaboration. It lets you work together on projects from anywhere.
 
-## **Projects objective**
+### **Projects objective**
 At the end of this project you should understand the following:
 1. What is source code management
 2. What is Git & GitHub
